@@ -34,6 +34,7 @@ Iroha offers:
 Engage with the community:
 - [Contribute](./CONTRIBUTING.md) to the repository
 - [Contact us](./CONTRIBUTING.md#contact) to get help
+- [Join our meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/iroha?view=list)
 
 ## System Requirements
 
